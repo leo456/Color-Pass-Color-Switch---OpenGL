@@ -1,2 +1,2 @@
-# Color-Pass-Color-Switch---OpenGL
-It's a game influenced by the famous game app Colo switch
+# Color-Pass-Color-Switch---OpenGL and C#
+It's a game influenced by the famous game app Color switch
